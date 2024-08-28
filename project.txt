@@ -3,4 +3,5 @@
 3. Exécuter les tâches
 4. Réviser
 5. Finaliser
-6. Réévaluer
+6. Evaluer les risques
+
