@@ -1,1 +1,6 @@
-1. Définir les objectifs\n2. Planifier les étapes\n3. Exécuter les tâches\n4. Réviser et finaliser
+1. Définir les objectifs
+2. Planifier les étapes
+3. Exécuter les tâches
+4. Réviser
+5. Finaliser
+6. Réévaluer
